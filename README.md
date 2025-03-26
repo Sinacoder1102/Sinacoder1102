@@ -9,4 +9,4 @@
 
 - ⚡ Fun fact **I like hot chcolate so much!Buy for me☕**
 
-<img aligen="center" alt="Do you know python?🐍" width = "250" src="https://media.tenor.com/qwBdJLnEIiIAAAAM/snake-dance.gif">
+<img aligen="center" alt="Do you know python?🐍" width = "220" src="https://media.tenor.com/qwBdJLnEIiIAAAAM/snake-dance.gif">
