@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **mohammadsinazarei1102@gmail.com**
 
-<img aligen="right" alt="Do you know python?🐍" width = "220" src="https://media.tenor.com/qwBdJLnEIiIAAAAM/snake-dance.gif">
+<img aligen="left" alt="Do you know python?🐍" width = "220" src="https://media4.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif?">
