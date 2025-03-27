@@ -7,6 +7,4 @@
 
 - 📫 How to reach me **mohammadsinazarei1102@gmail.com**
 
-- ⚡ Fun fact **I like hot chcolate so much!Buy for me☕**
-
-<img aligen="center" alt="Do you know python?🐍" width = "220" src="https://media.tenor.com/qwBdJLnEIiIAAAAM/snake-dance.gif">
+<img aligen="right" alt="Do you know python?🐍" width = "220" src="https://media.tenor.com/qwBdJLnEIiIAAAAM/snake-dance.gif">
